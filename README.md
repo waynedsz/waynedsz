@@ -8,7 +8,9 @@ Hi, I'm Wayne
 
 🛠️ Programming Knowledge
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![C#](https://i.stack.imgur.com/yyyyy.png)
-- ![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)
-- ![SQL](https://commons.wikimedia.org/wiki/File:SQLite_Logo.svg)
+- Python
+- C# .NET WinForms
+- SQL
+- HTML, CSS
+- Dart 
+
