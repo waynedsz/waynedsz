@@ -1,6 +1,6 @@
 Hi, I'm Wayne
 
-💻 Aspiring Full-stack Developer | 📝 Prompt Engineer  
+💻 Aspiring Full-stack Developer
 
 🧠 About Me
 - Currently in my 2nd year of University studying Computer Science
